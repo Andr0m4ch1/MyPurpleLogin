@@ -1,20 +1,25 @@
-# 💜 Purple Aesthetic Login
+# 💜 Purple Aesthetic Calendar
 
-🎉 **Welcome to my very first repository!** 
+📅 **Keep track of your days with a splash of color!** ✨
 
-This is a sleek, beautifully designed purple-themed Login page built entirely from scratch using **HTML, CSS, and JavaScript**. A perfect, colorful starting point with clean code and smooth aesthetics! ✨
+This is a sleek, completely custom purple-themed web calendar. No heavy frameworks, just clean code and beautiful aesthetics to organize your time!
 
 ---
 
-## 📥 How to Pull (Installation)
+## 📥 Installation & Setup
 
-Want to grab the code and make it your own? Run these commands in your terminal:
+Want to grab the code for yourself? Just run these commands in your terminal:
 
-```bash
-git clone <SSH URL>  # 🧬 Clone the repository to your machine
-git pull             # 🔄 Pull the latest changes
+1. 🧬 **Clone the repository:** 
+   ```bash
+   git clone <ssh URL>
 
-# 🐧 Live Preview & Debugging (Linux)
+    📤 Push your changes (after making your own edits):
+    Bash
+
+    git push
+
+2. 🐧 Live Preview & Debugging (Linux)
 
 Ready to test it out? If you are on Linux, you can easily spin it up using PHP's built-in server. Just follow these steps:
 
